@@ -57,7 +57,7 @@
 
 **Tech Stack:** React, STOMP, JWT, CSS Modules  
 
-### 🟣 Nationwide Training Reporting Platform
+### 🟣 Training Reporting Platform
 - Developed a nationwide reporting platform for managing and analyzing training programs across multiple branches  
 - Built scalable backend services using Express.js and MySQL  
 - Designed and implemented RESTful APIs for managing course and trainee data  
